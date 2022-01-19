@@ -1,2 +1,6 @@
 # get_top10_episodes
-quick side project to generate a list of the top 10 episodes of a tv show
+Just a quick little side project that allows you to get the Top 10 episodes for a specified TV Show. 
+
+It uses the imdb api via the IMDbPY library.
+
+
